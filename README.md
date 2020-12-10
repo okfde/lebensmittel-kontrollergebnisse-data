@@ -1,3 +1,3 @@
 # Lebensmittel Kontrollergebnisse
 
-Data scraped by [this scraper](https://github.com/okfde/lebensmittel-kontrollergebnisse-scraper).
+Nightly uploads by [this scraper](https://github.com/okfde/lebensmittel-kontrollergebnisse-scraper).
